@@ -14,7 +14,11 @@ namespace ConsoleApp1
 			//branch1
 				//test1
 
+<<<<<<< HEAD
 			// master
+=======
+			//branch2
+>>>>>>> brunch2
 			}
 		}
 	}
